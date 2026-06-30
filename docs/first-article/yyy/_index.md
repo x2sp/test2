@@ -12,3 +12,5 @@ YYY
 ---
 
 \-
+
+[mermaid:./yyy.mermaid::497px:363px::77]
