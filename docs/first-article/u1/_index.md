@@ -5,8 +5,6 @@ title: U1
 
 **UUUUUUU**
 
-[view:hierarchy=none::::List]
-
 
 
 **BBBB**
