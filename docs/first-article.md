@@ -5,6 +5,6 @@ title: First article
 
 ## 1
 
-2
+[comment:PNGpD]2[/comment]
 
 [comment:GsBbj]3[/comment]
