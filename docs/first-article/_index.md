@@ -5,8 +5,8 @@ title: First article
 
 ## 1
 
-[comment:PNGpD]2[/comment]
+2
 
-[comment:GsBbj]3[/comment]
+3
 
 Rose Rose Rose told Wadduah Trot.
